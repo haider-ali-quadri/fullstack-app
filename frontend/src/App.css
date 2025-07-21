@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+  padding: 0;
+  width: 100%;      /* ✅ Ensure full width for base layout */
+  box-sizing: border-box;
+}
+
+.page-content {
+  padding: 40px 24px;
+  text-align: center;
+}

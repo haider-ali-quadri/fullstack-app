@@ -1,0 +1,1 @@
+DBconfigs + DataSource + JpaTransactionManager + MongoTemplate
